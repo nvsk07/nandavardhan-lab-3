@@ -442,3 +442,4 @@ I learned how to implement query parameters, search, sorting, pagination and pri
 Additionally, I studied common debugging problems related to port conflicts, incorrect import paths, database table errors and missing await statements.
 
 This lab improved my understanding of backend API development, database integration, API testing and application deployment.
+
