@@ -8,7 +8,7 @@ https://nandavardhan-lab-3.onrender.com/
 
 | Field               | Details                          |
 | ------------------- | -------------------------------- |
-| Name                | Nandavardhan                     |
+| Name                | bangaru Nandavardhan sai kumar                    |
 | Registration Number | 252U1R5020                       |
 | Section             | AIDE-2A                          |
 | Course              | Backend Development Fundamentals |
